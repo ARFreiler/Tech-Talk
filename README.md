@@ -30,6 +30,10 @@ Run _node server.js_ from the command line
 
 ## Links
 
+[Repository](https://github.com/ARFreiler/Tech-Talk)
+
+[Heroku]()
+
 ## License
 
 The MIT License (MIT) Copyright © 2021 Ashleigh Freiler
